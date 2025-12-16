@@ -1,0 +1,163 @@
+body {
+font-family: Ariel,sans-serif;
+margin: 0;
+padding:0;
+background: colour #f4f4f4;
+color:#333;
+}
+
+header{
+background-color:forestgreen;
+color:aliceblue;
+text-align:center;
+}
+
+header img{
+width:100 px ;
+height:auto;
+margin-bottom:10px;
+}
+
+nav ul{
+padding:0; 
+list-style:none;
+}
+
+nav ul li{
+display:inline;
+margin:1em;   
+color:aliceblue;
+text-decoration:none;
+}
+
+main{
+width: 70%;
+float:left;
+padding:15px; 
+text-align:center  
+}
+
+#home.review{
+background-color:#35424a;
+font-size: medium;
+font-weight: 500;
+}
+
+#activities ul{
+list-style-type:none;
+padding: 0;    
+}
+
+#activities li{
+margin-bottom:0.5em;    
+}
+
+img{
+max-width:100%;
+margin-bottom: 1em;    
+}
+
+footer{
+text-align: center;
+padding: 1em 0;
+background-color: #35424a;
+color: white;
+background-size: 100px;
+}
+
+
+section id::content
+
+<h2>Contact Us</h2>
+  <p>Each activity is run under the instruction of one of our highly trained staff and all safety equipment is provided. 
+        Let’s meet some of the Lochquarry staff:
+
+  <div class="w3-container w3-padding-32" id="aboutus">
+    <h3> class="w3-border-bottom w3-border-light-grey w3-padding-16">Aboutus</h3>
+    <p>Each activity is run under the instruction of one of our highly trained staff and all safety equipment is provided. 
+        Let’s meet some of the Lochquarry staff:
+    </p>
+  </div>
+
+  <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="images2/STAFF/Claire_Jack.jpeg" alt="Claire_Jack" style="width:100%">
+      <h3>Claire Jack</h3>
+      <p class="w3-opacity">Position: Centre Manager</p>
+      <p>Responsible for: The overall running of the centre and all of its activities</p>
+      <p>Favourite Activity: Pole climb</p>
+      <p><button class="w3-button w3-light-grey w3-block">contact</button></p>
+    </div>
+    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="images2/STAFF/Robbie_Elliot.jpeg" alt="Robbie_Elliot style="width:100%">
+      <h3>Robbie Elliot</h3>
+      <p class="w3-opacity">Position: Senior Instructor(Land)</p>
+      <p>Responsible for: Overseeing all of the land based activities</p>
+      <p>Favourite Activity: Pole climb</p>
+      <p>Favourite Activity: Hillwalking in the beautiful Scottish highlands</p>
+      <p><button class="w3-button w3-light-grey w3-block">contact</button></p>
+    </div>
+    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img images2/STAFF/Marion_Hunter.jpg" alt="Marion_Hunter style="width:100%">
+      <h3>Marion Hunter</h3>
+      <p class="w3-opacity">Position:Centre Administrator</p>
+      <p>Responsible for: Making bookings and arranging activity slots for groups</p>
+      <p>Favourite Activity: Making sure everyone has a great time when the visit Lochquarry</p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+
+    
+
+<!-- Footer -->
+<footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
+  <button class="w3-button w3-black w3-disabled w3-padding-large w3-margin-bottom">Previous</button>
+  <button class="w3-button w3-black w3-padding-large w3-margin-bottom">Next »</button>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+
+  </footer>
+
+
+</body>
+</html>
+
+</style>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
